@@ -1,0 +1,9 @@
+[package]
+name = "http-server"
+version = "0.1.0"
+authors = ["Antoine Latrille <antoine.latrille@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7.0"
+hashbrown = "0.3"
